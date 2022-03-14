@@ -1,5 +1,5 @@
 <div align="center">
-<h1>ManaSchoolProjectStackX<h/2>
+<h1>ManaSchoolProject<h/2>
   
 ![lstackx](https://user-images.githubusercontent.com/96156026/158179984-80d43fca-ddce-4064-b66a-bba88b4963ee.jpg)
 </div>
