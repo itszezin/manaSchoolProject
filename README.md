@@ -1,7 +1,10 @@
-# ManaSchoolProjectStackX
-![logostackx](https://user-images.githubusercontent.com/96156026/158167425-f138ab22-445d-4ac2-89c8-e5ff9e57773e.jpg)
+<h1 align="center">ManaSchoolProjectStackX<h/2>
+  
+  
+![lstackx](https://user-images.githubusercontent.com/96156026/158179984-80d43fca-ddce-4064-b66a-bba88b4963ee.jpg)
 
 
+<div align="center"> 
   
 ####       <li>Engenharia de Requisitos :</li>
 #####        Felipe Silveira
@@ -28,3 +31,6 @@
 
 ####       <li>CX / UX / UI : 
 #####       Jacqeline
+</div>  
+  
+  
